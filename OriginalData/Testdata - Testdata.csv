@@ -1,0 +1,4 @@
+---,Boool,Inttti,Flooooooot,Stttttring,Teeeeeeext,VVVVVVector,RRRRAceEn,teexxxture,Accccctor
+NewRow,TRUE,1532,0.18152,?꾩븘?꾩븘,"NSLOCTEXT(""[1B336B15B11F0133F27EF9405E69918B]"", ""5A7DDC5A461A83F412FB1F8CE78E4496"", ""bkjhgfjhgk"")","(X=1.000000,Y=2.000000,Z=3.000000)",Human,/Script/Engine.Texture2D'/Game/01_Blueprint/04_UI/texture/4.4',/Script/Engine.Blueprint'/Game/01_Blueprint/02_Actor/SM_Tube.SM_Tube'
+NewRow_0,FALSE,0,0,,,"(X=0.000000,Y=0.000000,Z=0.000000)",None,None,None
+NewRow_1,FALSE,0,0,,,"(X=0.000000,Y=0.000000,Z=0.000000)",None,None,None
